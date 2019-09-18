@@ -5,11 +5,11 @@
 
 ## HTML Refresher
 
-You'll be making an HTML page. Today, you'll work on the html. During the next morning exercise you'll work on the css portion. If you need a quick  refresher before you jump into coding, look back at the [HTML video on elements and media](https://www.youtube.com/watch?v=KhbnrDhWDdE&index=2&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+You'll be making an HTML page with CSS. If you need a quick  refresher before you jump into coding, look back at the [HTML video on elements and media](https://www.youtube.com/watch?v=KhbnrDhWDdE&index=2&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
 
 1) Git clone this repo: `$ git clone https://github.com/wdi-sg/blog-mockup.git`
 2) `cd` into the directory in yur command line
-3) create an `index.html` and `style.css` file in this directory and open them in the browser to begin
+3) Create an `index.html` and `style.css` file in this directory and open them in the browser to begin
 
 
 ## Directions

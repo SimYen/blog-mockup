@@ -1,66 +1,24 @@
 ![](/ga_cog.png)
 
----
-Title: HTML Mockup <br>
-Type: Morning Exercise<br>
-Duration: "0:45"<br>
-Instructor: Jerrica Bobadilla<br>
-Modified from Lab Created by: Matt Huntington, Kristyn Bryan
-    Course: WDIR-Hopper<br>
-Competencies: HTML <br>
-Prerequisites: Basic HTML <br>
-
----
-# Morning Exercise
-
-## Where are we going?
-During Unit 1, here on out, most of the morning exercises will be dedicated to HTML and CSS. You will get to do mockups (like today).  Code alongs (lead by an instructor), or have group activities to work through.
-
-In hw, you'll be given short videos to review topics you'll have covered in Fundamentals, as a quick refresher and get you ready for the morning exercise. We are going to keep building on what you have learned from Fundamentals or to introduce you to a new topic so that you can make the most out of your morning exercise time.
-
-As Unit 1 progresses, we'll start putting together all the pieces, HTML, CSS and JavaScript and your assignments will bring all of these things together.
-
-Topic's we'll be covering (Unit 1) during Morning Exercise (not set in stone):
-- Mockups
-- UX/UI / Intro to Web Design
-- Wireframing
-- User Stories
-- Flexbox
-- Responsive Design
-- CSS Animations
-- Modals
-
-
+# A Blog Mockup
 
 
 ## HTML Refresher
 
 You'll be making an HTML page. Today, you'll work on the html. During the next morning exercise you'll work on the css portion. If you need a quick  refresher before you jump into coding, look back at the [HTML video on elements and media](https://www.youtube.com/watch?v=KhbnrDhWDdE&index=2&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
 
-1) Inside your `morning_exercise` folder, create a file for the blog site site. What should you name the file?
-    - go ahead and make the file
-2) How do you add the boilerplate needed for an HTML file?
-3) How do you add a title to my file so that you can see the name on the browser tab?
+1) Git clone this repo: `$ git clone https://github.com/wdi-sg/blog-mockup.git`
+2) `cd` into the directory in yur command line
+3) create an `index.html` and `style.css` file in this directory and open them in the browser to begin
 
-
-# Activity
 
 ## Directions
-Look at the image below and create this webpage using HTML (no styling yet - we will do the CSS for this page during the next morning exercise).
+Look at the image below and create this webpage using HTML and CSS.
 
 **IMPORTANT** Make sure to check your work in the browser *as you write your code*.
 
 >:elephant: Reminder:<br>
 Using the command `open index.html` inside the terminal when you are inside the folder with your `index.html` file will open your application in your browser.
-
-## Commit Your Work
-
-1. Get used to committing your work! After you create a tag, push the work.
-
->:elephant: Reminder:<br>
-  - `git add .` to add the file
-  - `git commit -m "add a message"` to make a commit
-  - `git push origin master` to push it the work to your branch of the class github repo
 
 ## Plan before you code!
 - Take a few minutes to describe what you see and figure out what tags you'll likely need
@@ -84,8 +42,8 @@ Using the command `open index.html` inside the terminal when you are inside the 
      - explore even more and practice your google-fu
 
 1. The links that you create do not have to go anywhere, but you should be able to click on them.
-    - Reminder!: Use a `#` to make a "dummy" link.
-    
+    - Reminder!: Use a `#` as the value of `href` to make a "dummy" link.
+
 ## Finished Outlining the HTML Early? 
 
 1. Do another mockup! We've provided a second mockup in the [doggie directory](doggie).
@@ -103,5 +61,3 @@ Using the command `open index.html` inside the terminal when you are inside the 
 2. Have the "About" link in the `index.html` file send you to `about.html`.
 
 3. Have the "Home" link send you to the `index.html` page.
-
-4. Add a `style.css` file, link it, and start styling the site to match the mockup as close as you can!
